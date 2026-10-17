@@ -2,7 +2,7 @@
 
 **Course:** ITAI 2373 – Natural Language Processing  
 **Student:** Elham Timory  
-**Houston Community College**
+**Houston City College**
 
 ## Lab Overview
 
