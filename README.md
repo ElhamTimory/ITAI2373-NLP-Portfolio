@@ -1,7 +1,7 @@
 # ITAI 2373 – Natural Language Processing Portfolio
 
 **Student:** Elham Timory  
-**College:** Houston Community College (HCC)  
+**College:** Houston City College (HCC)  
 **Major:** Artificial Intelligence  
 **Course:** ITAI 2373 – Natural Language Processing
 
@@ -9,7 +9,7 @@
 
 Welcome to my Natural Language Processing (NLP) portfolio!
 
-This repository contains my labs and midterm project for ITAI 2373 at Houston Community College. Throughout this course, I have been learning how computers process and analyze human language using Python and different NLP techniques.
+This repository contains my labs and midterm project for ITAI 2373 at Houston City College. Throughout this course, I have been learning how computers process and analyze human language using Python and different NLP techniques.
 
 The labs helped me understand the basic concepts of NLP, while the midterm project gave me an opportunity to apply several of these techniques together in one system.
 
