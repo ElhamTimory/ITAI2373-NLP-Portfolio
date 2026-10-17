@@ -47,7 +47,7 @@ I also analyzed simulated customer service transcripts to identify important wor
 
 For our midterm project, I worked with my teammates on the **NewsBot Intelligence System**, an NLP project that analyzes news articles.
 
-**Team MAEL:** Matt Choo, Armani, Elham Timory, and Laura.
+**Team MAEL:** Matt Choo, Armani, Elham Timory, and Laura Conover.
 
 We used the BBC News Classification dataset to develop a system that processes news articles and performs several NLP tasks.
 
